@@ -13,6 +13,7 @@ About Me = [
 <p align="center"><a href="https://github.com/Seinors"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinors&theme=radical&layout=compact"></a></p>
 
 ### TO-DO:
+- [ ] Make parents happy
 - [ ] Graduate from school
 
 <h4 align="center">Thanks for visiting my GitHub</h4>

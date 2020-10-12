@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">Hi, I'm Seino! Welcome to My GitHub profile. 👋</h2>
 
-<!--
-**Seinors/Seinors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://telegra.ph/file/3bd5716e0ea680e886c28.jpg)
 
-Here are some ideas to get you started:
+```
+About Me = [
+    "I'm student at a university in Bandung"
+]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><b>My Github Stats :</b></h3><br>
+<p align="center"><a href="https://github.com/Seinors"><img src="https://github-readme-stats.vercel.app/api?username=Seinors&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Seinors"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinors&theme=radical&layout=compact"></a></p>
+
+### TO-DO:
+- [ ] Graduate from school
+
+<h4 align="center">Thanks for visiting my GitHub</h4>

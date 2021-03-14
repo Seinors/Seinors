@@ -24,7 +24,3 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/seinoisdead" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="adharmimanav" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seinors&show_icons=true&theme=dracula" alt="Seinors" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinors&hide=lua&theme=dracula" alt="Seinors's github stats"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=Seinors&theme=dracula" width="1200"></div></p>

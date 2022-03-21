@@ -1,7 +1,5 @@
 <h2 align="center">Hi, I'm Seino! 👋</h2>
 
-![Header](https://telegra.ph/file/3bd5716e0ea680e886c28.jpg)
-
 - 🌱 I’m currently learning **Javascript and Python**
 
 - 📫 How to reach me **seino@waifu.club**
